@@ -139,9 +139,3 @@ MIT License – free to use and modify.
 
 ---
 
-```
-
----
-
-Let me know if you'd like this in `.md` file format or want a version with badge-style headers (for GitHub Pages/portfolio display).
-```
